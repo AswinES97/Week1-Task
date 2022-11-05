@@ -111,7 +111,9 @@ a:hover{
     justify-content: center;
     padding: 5px;
     text-decoration: underline;
-    text-underline-offset: .5rem;
+    text-underline-offset: .2rem;
+    text-decoration-color: black;
+    letter-spacing: 10px;
 }
 #footer-list li:nth-child(4){
     padding-top: 30px;
